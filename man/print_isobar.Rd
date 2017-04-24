@@ -1,6 +1,6 @@
-\name{hello}
+\name{isobar}
 \alias{hello}
-\title{Hello, World!}
+\title{isobar for R!}
 \usage{
 hello()
 }
