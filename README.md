@@ -5,7 +5,6 @@ Maintainer: Marco.Li/Matt.Zheng <mattzheng@yeah.net>
 
 Description: wordcloud Extended application
 
-
 制作教程参考于：
 1、https://www.analyticsvidhya.com/blog/2017/03/create-packages-r-cran-github/
 2、如何创建 R 包并将其发布在 CRAN / GitHub 上？:http://blog.csdn.net/wemedia/details.html?id=24785
