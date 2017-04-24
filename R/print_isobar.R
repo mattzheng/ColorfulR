@@ -10,5 +10,5 @@
 #'
 #' @export print_isobar
 print_isobar<-function(number){
-  print "ISOBAR"
+  print ("ISOBAR")
 }
