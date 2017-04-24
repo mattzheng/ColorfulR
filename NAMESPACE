@@ -1,1 +1,2 @@
 exportPattern(fn_GetMergeFreqWithColor)
+exportPattern(print_isobar)
