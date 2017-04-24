@@ -1,5 +1,5 @@
 \name{isobar}
-\alias{hello}
+\alias{isobar}
 \title{isobar for R!}
 \usage{
 hello()
