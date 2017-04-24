@@ -31,4 +31,3 @@ NAMESPACE：函数传导，exportPattern("函数名称")
 DESCRIPTION：整个packages描述，如需import额外packages需要Imports一下
 R：写/存函数的地方，多个函数，可以写多个"xxx.R"，跟内嵌的函数名最好一致
 man：在Rstudio中Help Pages显示函数，以便查询。要与R一一对应，而且格式要求比较严格。
-
