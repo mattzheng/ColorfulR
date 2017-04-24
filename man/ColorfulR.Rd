@@ -1,12 +1,12 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{fn_GetMergeFreqWithColor}
+\alias{fn_GetMergeFreqWithColor}
+\title{fn_GetMergeFreqWithColor}
 \usage{
-hello()
+fn_GetMergeFreqWithColor usage
 }
 \description{
-Prints 'Hello, world!'.
+fn_GetMergeFreqWithColor description
 }
 \examples{
-hello()
+fn_GetMergeFreqWithColor examples
 }
