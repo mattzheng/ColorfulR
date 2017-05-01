@@ -1,6 +1,6 @@
 exportPattern(fn_GetMergeFreqWithColor)
 exportPattern(print_isobar)
-exportPattern(TermDocumentMatrix_classes)
+exportPattern(.TermDocumentMatrix)
 exportPattern(TermDocumentMatrixCN)
 exportPattern(termFreqCN)
 exportPattern(wordsCN)
