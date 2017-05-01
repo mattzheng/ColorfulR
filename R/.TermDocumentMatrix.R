@@ -8,10 +8,7 @@
 #'
 #' @examples
 #'
-#' @export TermDocumentMatrix_classes
-TermDocumentMatrix_classes <-
-  c("TermDocumentMatrix", "simple_triplet_matrix")
-
+#' @export .TermDocumentMatrix
 ## Useful for TermDocumentMatrix
 .TermDocumentMatrix <-
   function(x, weighting)
@@ -19,7 +16,7 @@ TermDocumentMatrix_classes <-
     x <- as.simple_triplet_matrix(x)
     if(!is.null(dimnames(x)))
       names(dimnames(x)) <- c("Terms", "Docs")
-    class(x) <- TermDocumentMatrix_classes
+    class(x) <- c("TermDocumentMatrix", "simple_triplet_matrix")
     ## <NOTE>
     ## Note that if weighting is a weight function, it already needs to
     ## know whether we have a term-document or document-term matrix.
