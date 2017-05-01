@@ -6,6 +6,13 @@ Maintainer: Marco.Li/Matt.Zheng <mattzheng@yeah.net>
 Description: wordcloud Extended application
 
 
+使用办法：
+
+devtools::install_github("mattzheng/colorfulR")
+
+library(slam)
+
+
 -----------------2017-5-1更新------------------
 
 新更新四个函数：
