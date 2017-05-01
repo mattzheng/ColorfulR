@@ -9,7 +9,6 @@
 #' @examples
 #'
 #' @export .TermDocumentMatrix
-## Useful for TermDocumentMatrix
 .TermDocumentMatrix <-
   function(x, weighting)
   {
