@@ -5,10 +5,14 @@ Maintainer: Marco.Li/Matt.Zheng <mattzheng@yeah.net>
 
 Description: wordcloud Extended application
 -----------------2017-5-1更新------------------
-新更新四个函数
+新更新四个函数：
+
 TermDocumentMatrix，其中这个必须加载slam包，不然不报错：could not find function "as.simple_triplet_matrix"
+
 TermDocumentMatrixCN	Modified command "TermDocumentMatrix" on package tm and defined "TermDocumentMatrixCN"
+
 termFreqCN，Modified command "termFreq" on package tm
+
 wordsCN，Modified command "words" on package NLP
 
 
