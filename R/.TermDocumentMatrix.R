@@ -8,9 +8,8 @@
 #'
 #' @examples
 #'
-#' @export .TermDocumentMatrix
-.TermDocumentMatrix <-
-  function(x, weighting)
+#' @export TermDocumentMatrix
+TermDocumentMatrix <- function(x, weighting)
   {
     x <- as.simple_triplet_matrix(x)
     if(!is.null(dimnames(x)))
