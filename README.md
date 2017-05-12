@@ -19,7 +19,7 @@ library(ColorfulR)
 
 新更新四个函数：
 
-TermDocumentMatrix，其中这个必须加载slam包，不然不报错：could not find function "as.simple_triplet_matrix"
+TermDocumentMatrix，其中这个必须加载slam包，不然会报错：could not find function "as.simple_triplet_matrix"
 
 TermDocumentMatrixCN	Modified command "TermDocumentMatrix" on package tm and defined "TermDocumentMatrixCN"
 
