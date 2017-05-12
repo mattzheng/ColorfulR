@@ -1,4 +1,4 @@
-# colorfulR
+# ColorfulR
 Author: Marco.Li
 
 Maintainer: Marco.Li/Matt.Zheng <mattzheng@yeah.net>
@@ -8,9 +8,11 @@ Description: wordcloud Extended application
 
 使用办法：
 
-devtools::install_github("mattzheng/colorfulR")
+devtools::install_github("mattzheng/ColorfulR")
 
 library(slam)
+
+library(ColorfulR)
 
 
 -----------------2017-5-1更新------------------
